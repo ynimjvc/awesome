@@ -5,3 +5,4 @@
 * [What is a Monad? - Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 * [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 * [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
