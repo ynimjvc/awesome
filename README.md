@@ -3,3 +3,4 @@
 * ["Uncle" Bob Martin](https://www.youtube.com/watch?v=QHnLmvDxGTY)
 * [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 * [What is a Monad? - Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)
+* [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
