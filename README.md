@@ -6,3 +6,4 @@
 * [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 * [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
+* [Get Kata - Kevlin Henney](https://www.youtube.com/watch?v=_M4o0ExLQCs)
